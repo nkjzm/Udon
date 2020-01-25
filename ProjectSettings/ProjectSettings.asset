@@ -407,7 +407,7 @@ PlayerSettings:
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
   cameraUsageDescription: 
-  locationUsageDescription: 
+  locationUsageDescription: "\u9999\u5DDD\u770C\u306B\u3044\u308B\u304B\u5224\u65AD\u3059\u308B\u76EE\u7684\u306E\u307F\u306B\u4F7F\u7528\u3057\u307E\u3059"
   microphoneUsageDescription: 
   switchNetLibKey: 
   switchSocketMemoryPoolSize: 6144
