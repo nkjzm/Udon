@@ -172,9 +172,9 @@ namespace Udon
         {
             if (TestDummyLocation)
             {
-                // 香川県内の座標に置き換える
-                var lat = 34.078824f;
-                var lng = 133.987884f;
+                // 香川県庁の座標に置き換える
+                var lat = 34.340117f;
+                var lng = 134.043312f;
                 StartCoroutine(GetAreaName(lat, lng));
                 yield break;
             }
