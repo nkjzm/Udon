@@ -24,6 +24,8 @@ popup.Open(onComplete: flg =>
 
 表示の際には`Instantiate`メソッドで生成し、`Open()`メソッドを呼んでください。
 
+また、位置情報の取得の際にはPlayer SettingからiOS/Other Settings/Location Usage Descriptionに使用用途を記載する必要がある点にも注意してください。
+
 ## LICENSE
 
 [MIT](https://github.com/nkjzm/Udon/blob/master/LICENSE)
